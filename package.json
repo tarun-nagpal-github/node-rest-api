@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Hello World App for Express, Node and MYSQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express"
+  ],
+  "author": "Tarun Nagpal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
